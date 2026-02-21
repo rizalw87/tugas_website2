@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://provideroutboundmalang.vercel.app/sitemap.xml
